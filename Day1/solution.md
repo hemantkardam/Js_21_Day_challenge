@@ -234,7 +234,7 @@ btn.addEventListener('click', () => {
 
 ### 🏠 **Homework / Practice Challenge**
 
-1. **Print all numbers divisible by 3 and 5 up to N**
+### 1. **Print all numbers divisible by 3 and 5 up to N**
 
 ```js
 const input = document.querySelector('input');
@@ -257,7 +257,7 @@ btn.addEventListener('click', () => {
 
 ---
 
-2. **Find the sum of all odd numbers up to N**
+### 2. **Find the sum of all odd numbers up to N**
 
 ### Brute Force Approach
 
@@ -312,7 +312,7 @@ btn.addEventListener('click', () => {
 
 ---
 
-3. **Print the cubes of numbers from 1 to N**
+### 3. **Print the cubes of numbers from 1 to N**
 
 ```js
 const input = document.querySelector('input');
@@ -334,7 +334,7 @@ btn.addEventListener('click', () => {
 
 ---
 
-4. **Print only the numbers that are both even and perfect squares**
+### 4. **Print only the numbers that are both even and perfect squares**
 
 ```js
 const input = document.querySelector('input');
