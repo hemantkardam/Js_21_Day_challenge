@@ -1,4 +1,4 @@
-### 🧠 **Questions List**
+### 🧠 **Solution List**
 
 1. **Print Right-Angled Star Triangle**
 
@@ -159,13 +159,7 @@ function hollowInvertedPyramid(n) {
 
 ---
 
-2. **Print Butterfly Pattern**
-
-```js
-
-```
-
-3. **Print Diamond Pattern**
+2. **Print Diamond Pattern**
 
 ```js
 function diamondPattern(n) {
@@ -196,7 +190,7 @@ function diamondPattern(n) {
 
 ---
 
-4. **Print Hourglass Pattern**
+3. **Print Hourglass Pattern**
 
 ```js
 function hourglassPattern(n) {
@@ -227,7 +221,7 @@ function hourglassPattern(n) {
 
 ---
 
-5. **Print Hollow Diamond Pattern**
+4. **Print Hollow Diamond Pattern**
 
 ```js
 function hollowDiamondPattern(n) {
@@ -266,7 +260,7 @@ function hollowDiamondPattern(n) {
 
 ---
 
-6. **Print Rhombus Pattern**
+5. **Print Rhombus Pattern**
 
 ```js
 function rhombusPattern(n) {
@@ -287,7 +281,7 @@ function rhombusPattern(n) {
 
 ---
 
-7. **Print Multiplication Table (Single and Upto N)**
+6. **Print Multiplication Table (Single and Upto N)**
 
 ```js
 function multiplicationTableSingleAndUptoN(single, upto) {
